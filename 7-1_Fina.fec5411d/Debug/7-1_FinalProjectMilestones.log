@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1129,5): warning MSB8027: Two or more files with the name of ShaderManager.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\Utilities\ShaderManager.cpp, Utilities\ShaderManager.cpp.
+  SceneManager.cpp
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(231,16): warning C4018: '<': signed/unsigned mismatch
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(278,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(843,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(843,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(843,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(927,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(927,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(927,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(964,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(964,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Source\SceneManager.cpp(964,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> D:\Homework\CS_330_Comp_Graphic_Visualization\CS330Content\Projects\Peck_7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe

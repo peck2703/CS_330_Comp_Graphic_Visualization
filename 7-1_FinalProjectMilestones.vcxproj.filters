@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{acc9b6a3-7ec6-46a6-8540-18e4843927b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{450d8584-0495-4e84-954c-3f7565e7f008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3D Shapes">
+      <UniqueIdentifier>{da8de016-acdf-42d6-a8a7-d6eafbc8bc83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{2bd92ddb-2463-4375-9ba8-a99db50a459d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\3DShapes\ShapeMeshes.cpp">
+      <Filter>Source Files\3D Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Utilities\ShaderManager.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MainCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SceneManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ViewManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\ShaderManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\SceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ViewManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\camera.h" />
+    <ClInclude Include="Utilities\linmath.h" />
+    <ClInclude Include="Utilities\ShaderManager.h" />
+    <ClInclude Include="Utilities\stb_image.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Source\wood_base.jpg" />
+    <Image Include="Source\marble.jpg" />
+    <Image Include="Source\metal_polished.jpg" />
+    <Image Include="Utilities\textures\abstract.jpg" />
+    <Image Include="Utilities\textures\backdrop.jpg" />
+    <Image Include="Utilities\textures\breadcrust.jpg" />
+    <Image Include="Utilities\textures\cheddar.jpg" />
+    <Image Include="Utilities\textures\cheese_top.jpg" />
+    <Image Include="Utilities\textures\cheese_wheel.jpg" />
+    <Image Include="Utilities\textures\circular-brushed-gold-texture.jpg" />
+    <Image Include="Utilities\textures\drywall.jpg" />
+    <Image Include="Utilities\textures\gold-seamless-texture.jpg" />
+    <Image Include="Utilities\textures\knife_handle.jpg" />
+    <Image Include="Utilities\textures\pavers.jpg" />
+    <Image Include="Utilities\textures\rusticwood.jpg" />
+    <Image Include="Utilities\textures\stainedglass.jpg" />
+    <Image Include="Utilities\textures\stainless.jpg" />
+    <Image Include="Utilities\textures\stainless_end.jpg" />
+    <Image Include="Utilities\textures\tilesf2.jpg" />
+    <Image Include="Utilities\textures\cardboard.jpg" />
+    <Image Include="Utilities\textures\marble.jpg" />
+    <Image Include="Utilities\textures\metal_polished.jpg" />
+    <Image Include="Utilities\textures\paper.jpg" />
+    <Image Include="Utilities\textures\snow.jpg" />
+    <Image Include="Utilities\textures\wood_base.jpg" />
+    <Image Include="Utilities\textures\dietCoke.jpg" />
+    <Image Include="Utilities\textures\gumdrop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Utilities\shaders\fragmentShader.glsl" />
+    <None Include="Utilities\shaders\vertexShader.glsl" />
+  </ItemGroup>
+</Project>
